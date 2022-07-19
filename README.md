@@ -1,3 +1,3 @@
 # Springboot_Project
-api,資料庫的一些demo撰寫
+這個Repository包含Spring Boot 在api,資料庫相關的一些demo撰寫
 雖然只是小型的demo但是如果想了解Spring boot一些基本寫法的話可以參考這個專案
